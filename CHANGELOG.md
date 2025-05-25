@@ -8,3 +8,6 @@ All notable changes to steganography-multi-tool will be documented in this file.
 ## [0.1.1] - 2025-05-22
 - feat: implement AES encryption for embedded payload data
 
+## [0.1.2] - 2025-05-25
+- fix: validate PNG bit depth before attempting pixel byte encoding
+
